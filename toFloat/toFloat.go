@@ -1,4 +1,4 @@
-// Package toInt converts Strings to numbers
+// Package toInt converts strings to numbers
 
 package toFloat
 
